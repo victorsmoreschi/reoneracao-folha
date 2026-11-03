@@ -1,0 +1,17 @@
+outcome,spec,fe,term,coef,se,t,p,N,fonte
+saldo,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,0.0198636043515482,0.0429027238789373,0.4629916834091753,0.643632600524076,9219210,copied_from_sat_main
+saldo,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,0.0111706159571545,0.0621808698941203,0.1796471483299528,0.8575243446258298,9219210,copied_from_sat_main
+saldo,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,-0.0086929883943936,0.0654916044224123,-0.1327343935311925,0.8944034414171966,9219210,copied_from_sat_main
+saldo,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,-0.0017385976788787,0.0130983208844824,-0.1327343935311925,0.8944034414171966,9219210,copied_from_sat_main
+admitidos,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,0.0009773928602226,0.147223953560513,0.0066388168269159,0.9947064769850772,9219210,copied_from_sat_main
+admitidos,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,-0.1118526796843707,0.2430330080074898,-0.4602365769217802,0.6456069161481084,9219210,copied_from_sat_main
+admitidos,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,-0.1128300725445933,0.1201748341264356,-0.9388826984016064,0.3477909731967955,9219210,copied_from_sat_main
+admitidos,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,-0.0225660145089186,0.0240349668252871,-0.9388826984016064,0.3477909731967954,9219210,copied_from_sat_main
+desligados,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,-0.0188862114913253,0.1706808564440113,-0.1106521954764187,0.9119499641561912,9219210,copied_from_sat_main
+desligados,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,-0.123023295641525,0.2402821614838711,-0.5119951264038506,0.6089487418225239,9219210,copied_from_sat_main
+desligados,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,-0.1041370841501997,0.0871911595105274,-1.1943537020817605,0.2323396391155189,9219210,copied_from_sat_main
+desligados,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,-0.0208274168300399,0.0174382319021054,-1.1943537020817605,0.2323396391155189,9219210,copied_from_sat_main
+log_salario,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,-0.0010330200608037,0.0018418057803558,-0.5608735035049324,0.5752143341482092,2222824,copied_from_sat_main
+log_salario,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,-0.0016575208896094,0.0027231517329,-0.608677390093243,0.5431019697354678,2222824,copied_from_sat_main
+log_salario,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,-0.0006245008288056,0.0016514257039291,-0.3781585979434896,0.7053127797516696,2222824,copied_from_sat_main
+log_salario,att_principal,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,-0.0001249001657611,0.0003302851407858,-0.3781585979434896,0.7053127797516696,2222824,copied_from_sat_main
