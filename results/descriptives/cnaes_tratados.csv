@@ -1,0 +1,142 @@
+cnae4,grupo_lei,descricao_curta,fonte
+0311,pesca_aquicultura,Pesca em água salgada,fazenda2024_anexo_G1G2G3_nome_ibge
+0312,pesca_aquicultura,Pesca em água doce,fazenda2024_anexo_G1G2G3_nome_ibge
+0321,pesca_aquicultura,Aqüicultura em água salgada e salobra,fazenda2024_anexo_G1G2G3_nome_ibge
+0322,pesca_aquicultura,Aqüicultura em água doce,fazenda2024_anexo_G1G2G3_nome_ibge
+1011,proteina_alimentos,"Abate de reses, exceto suínos",fazenda2024_anexo_G1G2G3_nome_ibge
+1012,proteina_alimentos,"Abate de suínos, aves e outros pequenos animais",fazenda2024_anexo_G1G2G3_nome_ibge
+1013,proteina_alimentos,Fabricação de produtos de carne,fazenda2024_anexo_G1G2G3_nome_ibge
+1020,proteina_alimentos,Preservação do pescado e fabricação de produtos do pescado,fazenda2024_anexo_G1G2G3_nome_ibge
+1096,proteina_alimentos,Fabricação de alimentos e pratos prontos,fazenda2024_anexo_G1G2G3_nome_ibge
+1220,fumo,Fabricação de produtos do fumo,fazenda2024_anexo_G1G2G3_nome_ibge
+1311,textil,Preparação e fiação de fibras de algodão,fazenda2024_anexo_G1G2G3_nome_ibge
+1312,textil,"Preparação e fiação de fibras têxteis naturais, exceto algodão",fazenda2024_anexo_G1G2G3_nome_ibge
+1313,textil,Fiação de fibras artificiais e sintéticas,fazenda2024_anexo_G1G2G3_nome_ibge
+1314,textil,Fabricação de linhas para costurar e bordar,fazenda2024_anexo_G1G2G3_nome_ibge
+1321,textil,Tecelagem de fios de algodão,fazenda2024_anexo_G1G2G3_nome_ibge
+1322,textil,"Tecelagem de fios de fibras têxteis naturais, exceto algodão",fazenda2024_anexo_G1G2G3_nome_ibge
+1323,textil,Tecelagem de fios de fibras artificiais e sintéticas,fazenda2024_anexo_G1G2G3_nome_ibge
+1330,textil,Fabricação de tecidos de malha,fazenda2024_anexo_G1G2G3_nome_ibge
+1351,textil,Fabricação de artefatos têxteis para uso doméstico,fazenda2024_anexo_G1G2G3_nome_ibge
+1352,textil,Fabricação de artefatos de tapeçaria,fazenda2024_anexo_G1G2G3_nome_ibge
+1353,textil,Fabricação de artefatos de cordoaria,fazenda2024_anexo_G1G2G3_nome_ibge
+1354,textil,"Fabricação de tecidos especiais, inclusive artefatos",fazenda2024_anexo_G1G2G3_nome_ibge
+1359,textil,Fabricação de outros produtos têxteis não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+1411,confeccao,Confecção de roupas íntimas,fazenda2024_anexo_G1G2G3_nome_ibge
+1412,confeccao,"Confecção de peças do vestuário, exceto roupas íntimas",fazenda2024_anexo_G1G2G3_nome_ibge
+1413,confeccao,Confecção de roupas profissionais,fazenda2024_anexo_G1G2G3_nome_ibge
+1414,confeccao,"Fabricação de acessórios do vestuário, exceto para segurança e proteção",fazenda2024_anexo_G1G2G3_nome_ibge
+1421,confeccao,Fabricação de meias,fazenda2024_anexo_G1G2G3_nome_ibge
+1422,confeccao,"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias",fazenda2024_anexo_G1G2G3_nome_ibge
+1510,couro_calcados,Curtimento e outras preparações de couro,fazenda2024_anexo_G1G2G3_nome_ibge
+1531,couro_calcados,Fabricação de calçados de couro,fazenda2024_anexo_G1G2G3_nome_ibge
+1532,couro_calcados,Fabricação de tênis de qualquer material,fazenda2024_anexo_G1G2G3_nome_ibge
+1533,couro_calcados,Fabricação de calçados de material sintético,fazenda2024_anexo_G1G2G3_nome_ibge
+1539,couro_calcados,Fabricação de calçados de materiais não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+1540,couro_calcados,"Fabricação de partes para calçados, de qualquer material",fazenda2024_anexo_G1G2G3_nome_ibge
+1742,papel,Fabricação de produtos de papel para usos doméstico e higiênico-sanitário,fazenda2024_anexo_G1G2G3_nome_ibge
+1749,papel,"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteri",fazenda2024_anexo_G1G2G3_nome_ibge
+1811,impressao,"Impressão de jornais, livros, revistas e outras publicações periódicas",fazenda2024_anexo_G1G2G3_nome_ibge
+1821,impressao,Serviços de pré-impressão,fazenda2024_anexo_G1G2G3_nome_ibge
+2040,quimica_borracha_plastico,Fabricação de fibras artificiais e sintéticas,fazenda2024_anexo_G1G2G3_nome_ibge
+2219,quimica_borracha_plastico,Fabricação de artefatos de borracha não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2229,quimica_borracha_plastico,Fabricação de artefatos de material plástico não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2423,metalurgia_metal,Produção de laminados longos de aço,fazenda2024_anexo_G1G2G3_nome_ibge
+2431,metalurgia_metal,Produção de tubos de aço com costura,fazenda2024_anexo_G1G2G3_nome_ibge
+2439,metalurgia_metal,Produção de outros tubos de ferro e aço,fazenda2024_anexo_G1G2G3_nome_ibge
+2511,metalurgia_metal,Fabricação de estruturas metálicas,fazenda2024_anexo_G1G2G3_nome_ibge
+2521,metalurgia_metal,"Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central",fazenda2024_anexo_G1G2G3_nome_ibge
+2522,metalurgia_metal,"Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos",fazenda2024_anexo_G1G2G3_nome_ibge
+2543,metalurgia_metal,Fabricação de ferramentas,fazenda2024_anexo_G1G2G3_nome_ibge
+2592,metalurgia_metal,Fabricação de produtos de trefilados de metal,fazenda2024_anexo_G1G2G3_nome_ibge
+2599,metalurgia_metal,Fabricação de produtos de metal não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2610,eletroeletronicos,Fabricação de componentes eletrônicos,fazenda2024_anexo_G1G2G3_nome_ibge
+2622,eletroeletronicos,Fabricação de periféricos para equipamentos de informática,fazenda2024_anexo_G1G2G3_nome_ibge
+2651,eletroeletronicos,"Fabricação de aparelhos e equipamentos de medida, teste e controle",fazenda2024_anexo_G1G2G3_nome_ibge
+2660,eletroeletronicos,Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,fazenda2024_anexo_G1G2G3_nome_ibge
+2710,eletroeletronicos,"Fabricação de geradores, transformadores e motores elétricos",fazenda2024_anexo_G1G2G3_nome_ibge
+2731,eletroeletronicos,Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica,fazenda2024_anexo_G1G2G3_nome_ibge
+2751,eletroeletronicos,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico",fazenda2024_anexo_G1G2G3_nome_ibge
+2759,eletroeletronicos,Fabricação de aparelhos eletrodomésticos não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2790,eletroeletronicos,Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2811,maquinas,"Fabricação de motores e turbinas, exceto para aviões e veículos rodoviários",fazenda2024_anexo_G1G2G3_nome_ibge
+2812,maquinas,"Fabricação de equipamentos hidráulicos e pneumáticos, exceto válvulas",fazenda2024_anexo_G1G2G3_nome_ibge
+2813,maquinas,"Fabricação de válvulas, registros e dispositivos semelhantes",fazenda2024_anexo_G1G2G3_nome_ibge
+2814,maquinas,Fabricação de compressores,fazenda2024_anexo_G1G2G3_nome_ibge
+2815,maquinas,Fabricação de equipamentos de transmissão para fins industriais,fazenda2024_anexo_G1G2G3_nome_ibge
+2821,maquinas,Fabricação de aparelhos e equipamentos para instalações térmicas,fazenda2024_anexo_G1G2G3_nome_ibge
+2822,maquinas,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas e pessoas",fazenda2024_anexo_G1G2G3_nome_ibge
+2823,maquinas,Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial,fazenda2024_anexo_G1G2G3_nome_ibge
+2824,maquinas,Fabricação de aparelhos e equipamentos de ar condicionado,fazenda2024_anexo_G1G2G3_nome_ibge
+2825,maquinas,Fabricação de máquinas e equipamentos para saneamento básico e ambiental,fazenda2024_anexo_G1G2G3_nome_ibge
+2829,maquinas,Fabricação de máquinas e equipamentos de uso geral não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2831,maquinas,Fabricação de tratores agrícolas,fazenda2024_anexo_G1G2G3_nome_ibge
+2832,maquinas,Fabricação de equipamentos para irrigação agrícola,fazenda2024_anexo_G1G2G3_nome_ibge
+2833,maquinas,"Fabricação de máquinas e equipamentos para a agricultura e pecuária, exceto para irrigação",fazenda2024_anexo_G1G2G3_nome_ibge
+2840,maquinas,Fabricação de máquinas-ferramenta,fazenda2024_anexo_G1G2G3_nome_ibge
+2851,maquinas,Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo,fazenda2024_anexo_G1G2G3_nome_ibge
+2852,maquinas,"Fabricação de outras máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo",fazenda2024_anexo_G1G2G3_nome_ibge
+2853,maquinas,"Fabricação de tratores, exceto agrícolas",fazenda2024_anexo_G1G2G3_nome_ibge
+2854,maquinas,"Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, exceto tratores",fazenda2024_anexo_G1G2G3_nome_ibge
+2861,maquinas,"Fabricação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta",fazenda2024_anexo_G1G2G3_nome_ibge
+2862,maquinas,"Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",fazenda2024_anexo_G1G2G3_nome_ibge
+2863,maquinas,Fabricação de máquinas e equipamentos para a indústria têxtil,fazenda2024_anexo_G1G2G3_nome_ibge
+2864,maquinas,"Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados",fazenda2024_anexo_G1G2G3_nome_ibge
+2865,maquinas,"Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos",fazenda2024_anexo_G1G2G3_nome_ibge
+2866,maquinas,Fabricação de máquinas e equipamentos para a indústria do plástico,fazenda2024_anexo_G1G2G3_nome_ibge
+2869,maquinas,Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+2910,veiculos,"Fabricação de automóveis, camionetas e utilitários",fazenda2024_anexo_G1G2G3_nome_ibge
+2920,veiculos,Fabricação de caminhões e ônibus,fazenda2024_anexo_G1G2G3_nome_ibge
+2930,veiculos,"Fabricação de cabines, carrocerias e reboques para veículos automotores",fazenda2024_anexo_G1G2G3_nome_ibge
+2941,veiculos,Fabricação de peças e acessórios para o sistema motor de veículos automotores,fazenda2024_anexo_G1G2G3_nome_ibge
+2942,veiculos,Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,fazenda2024_anexo_G1G2G3_nome_ibge
+2943,veiculos,Fabricação de peças e acessórios para o sistema de freios de veículos automotores,fazenda2024_anexo_G1G2G3_nome_ibge
+2944,veiculos,Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores,fazenda2024_anexo_G1G2G3_nome_ibge
+2945,veiculos,"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",fazenda2024_anexo_G1G2G3_nome_ibge
+2949,veiculos,Fabricação de peças e acessórios para veículos automotores não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+3042,outras_industrias,"Fabricação de turbinas, motores e outros componentes e peças para aeronaves",fazenda2024_anexo_G1G2G3_nome_ibge
+3091,outras_industrias,Fabricação de motocicletas,fazenda2024_anexo_G1G2G3_nome_ibge
+3230,outras_industrias,Fabricação de artefatos para pesca e esporte,fazenda2024_anexo_G1G2G3_nome_ibge
+3250,outras_industrias,Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos,fazenda2024_anexo_G1G2G3_nome_ibge
+3292,outras_industrias,Fabricação de equipamentos e acessórios para segurança e proteção pessoal e profissional,fazenda2024_anexo_G1G2G3_nome_ibge
+3299,outras_industrias,Fabricação de produtos diversos não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+3831,reciclagem,Recuperação de materiais metálicos,fazenda2024_anexo_G1G2G3_nome_ibge
+4120,construcao_infra,Construção de edifícios,fazenda2024_anexo_G1G2G3_nome_ibge
+4211,construcao_infra,Construção de rodovias e ferrovias,fazenda2024_anexo_G1G2G3_nome_ibge
+4212,construcao_infra,Construção de obras-de-arte especiais,fazenda2024_anexo_G1G2G3_nome_ibge
+4213,construcao_infra,"Obras de urbanização - ruas, praças e calçadas",fazenda2024_anexo_G1G2G3_nome_ibge
+4221,construcao_infra,Obras para geração e distribuição de energia elétrica e para telecomunicações,fazenda2024_anexo_G1G2G3_nome_ibge
+4222,construcao_infra,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas",fazenda2024_anexo_G1G2G3_nome_ibge
+4223,construcao_infra,"Construção de redes de transportes por dutos, exceto para água e esgoto",fazenda2024_anexo_G1G2G3_nome_ibge
+4291,construcao_infra,"Obras portuárias, marítimas e fluviais",fazenda2024_anexo_G1G2G3_nome_ibge
+4292,construcao_infra,Montagem de instalações industriais e de estruturas metálicas,fazenda2024_anexo_G1G2G3_nome_ibge
+4299,construcao_infra,Obras de engenharia civil não especificadas anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+4311,construcao_infra,Demolição e preparação de canteiros de obras,fazenda2024_anexo_G1G2G3_nome_ibge
+4312,construcao_infra,Perfurações e sondagens,fazenda2024_anexo_G1G2G3_nome_ibge
+4313,construcao_infra,Obras de terraplenagem,fazenda2024_anexo_G1G2G3_nome_ibge
+4319,construcao_infra,Serviços de preparação do terreno não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+4321,construcao_infra,Instalações elétricas,fazenda2024_anexo_G1G2G3_nome_ibge
+4322,construcao_infra,"Instalações hidráulicas, de sistemas de ventilação e refrigeração",fazenda2024_anexo_G1G2G3_nome_ibge
+4329,construcao_infra,Obras de instalações em construções não especificadas anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+4330,construcao_infra,Obras de acabamento,fazenda2024_anexo_G1G2G3_nome_ibge
+4391,construcao_infra,Obras de fundações,fazenda2024_anexo_G1G2G3_nome_ibge
+4399,construcao_infra,Serviços especializados para construção não especificados anteriormente,fazenda2024_anexo_G1G2G3_nome_ibge
+4912,transporte,Transporte metroferroviário de passageiros,fazenda2024_anexo_G1G2G3_nome_ibge
+4921,transporte,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal e em região metropolitana",fazenda2024_anexo_G1G2G3_nome_ibge
+4922,transporte,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, interestadual e internacional",fazenda2024_anexo_G1G2G3_nome_ibge
+4930,transporte,Transporte rodoviário de carga,fazenda2024_anexo_G1G2G3_nome_ibge
+5811,comunicacao,Edição de livros,fazenda2024_anexo_G1G2G3_nome_ibge
+5812,comunicacao,Edição de jornais,fazenda2024_anexo_G1G2G3_nome_ibge
+5813,comunicacao,Edição de revistas,fazenda2024_anexo_G1G2G3_nome_ibge
+5822,comunicacao,Edição integrada à impressão de jornais,fazenda2024_anexo_G1G2G3_nome_ibge
+5823,comunicacao,Edição integrada à impressão de revistas,fazenda2024_anexo_G1G2G3_nome_ibge
+6010,comunicacao,Atividades de rádio,fazenda2024_anexo_G1G2G3_nome_ibge
+6021,comunicacao,Atividades de televisão aberta,fazenda2024_anexo_G1G2G3_nome_ibge
+6201,ti,Desenvolvimento de programas de computador sob encomenda,fazenda2024_anexo_G1G2G3_nome_ibge
+6202,ti,Desenvolvimento e licenciamento de programas de computador customizáveis,fazenda2024_anexo_G1G2G3_nome_ibge
+6203,ti,Desenvolvimento e licenciamento de programas de computador não-customizáveis,fazenda2024_anexo_G1G2G3_nome_ibge
+6204,ti,Consultoria em tecnologia da informação,fazenda2024_anexo_G1G2G3_nome_ibge
+6209,ti,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",fazenda2024_anexo_G1G2G3_nome_ibge
+6311,ti,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet",fazenda2024_anexo_G1G2G3_nome_ibge
+6319,ti,"Portais, provedores de conteúdo e outros serviços de informação na internet",fazenda2024_anexo_G1G2G3_nome_ibge
+8220,call_center,Atividades de teleatendimento,fazenda2024_anexo_G1G2G3_nome_ibge

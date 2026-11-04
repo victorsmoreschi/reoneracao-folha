@@ -1,0 +1,5 @@
+outcome,spec,fe,term,coef,se,t,p,N,note
+saldo,reta_comparacao_FE_MAIN,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,dose,0.0018832140840211978,0.005618516574563058,0.3351799463486769,0.7376723758909016,9219210,comparison column only; Dose linear | FE_MAIN; NOT preferred
+admitidos,reta_comparacao_FE_MAIN,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,dose,-0.008131896945380995,0.025277263003395854,-0.3217079691060113,0.7478489867458797,9219210,comparison column only; Dose linear | FE_MAIN; NOT preferred
+desligados,reta_comparacao_FE_MAIN,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,dose,-0.010015111029402196,0.026536858059965675,-0.37740379839885047,0.7060820406375592,9219210,comparison column only; Dose linear | FE_MAIN; NOT preferred
+log_salario,reta_comparacao_FE_MAIN,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,dose,-0.00017545243869285647,0.0002829119863570403,-0.6201661546832877,0.5355201210210061,2222824,comparison column only; Dose linear | FE_MAIN; NOT preferred

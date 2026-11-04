@@ -1,0 +1,17 @@
+outcome,spec,fe,term,coef,se,t,p,N
+saldo,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,0.011636624187918932,0.04424942769172371,0.26297795914986294,0.7927644839606041,6294582
+saldo,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,0.07098431663892392,0.06864436007101189,1.0340881110333227,0.3020034819835975,6294582
+saldo,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,0.05934769245100499,0.05917166523696479,1.0029748565184917,0.31587299287109233,6294582
+saldo,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,0.011869538490200999,0.011834333047392958,1.0029748565184917,0.31587299287109233,6294582
+admitidos,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,0.07923354243826686,0.17079704607882296,0.46390464154573563,0.64308305986102,6294582
+admitidos,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,-0.0005006701663959344,0.2590220803793865,-0.0019329246590198367,0.9984591516262897,6294582
+admitidos,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,-0.07973421260466279,0.11597443790158636,-0.6875154046646356,0.49175799668854525,6294582
+admitidos,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,-0.015946842520932557,0.02319488758031727,-0.6875154046646355,0.4917579966885453,6294582
+desligados,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,0.067596918250348,0.18852423775814217,0.3585582366181908,0.7202006979123095,6294582
+desligados,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,-0.07148498680531987,0.28929645793752184,-0.24709941945005834,0.8050156538480364,6294582
+desligados,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,-0.13908190505566786,0.11326338315519416,-1.2279511805249277,0.21946529498808154,6294582
+desligados,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,-0.027816381011133574,0.022652676631038832,-1.2279511805249277,0.21946529498808154,6294582
+log_salario,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta5,4.3815219398701436e-05,0.002278241497889966,0.019232034636925754,0.9846700506576447,1545212
+log_salario,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,beta10,0.001216747298026897,0.0031259873205527907,0.3892361590934831,0.6974048964787325,1545212
+log_salario,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta,0.0011729320786281955,0.0017950989281492516,0.653408043554173,0.5134932546399305,1545212
+log_salario,att_rob_cnae2,cnae4^municipio^mes_cal + municipio^time_id + municipio^ano,delta_over_5,0.00023458641572563911,0.0003590197856298503,0.653408043554173,0.5134932546399305,1545212

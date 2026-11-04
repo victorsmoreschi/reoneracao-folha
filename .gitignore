@@ -1,0 +1,7 @@
+data/*
+!data/README.md
+*.parquet
+*.7z
+caged_raw/
+__pycache__/
+.ipynb_checkpoints/
