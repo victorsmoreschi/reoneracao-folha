@@ -7,7 +7,7 @@ The data are Novo CAGED microdata aggregated to CNAE-4 class × municipality × 
 ## Design
 - **Treatment.** 137 treated CNAE-4 classes: the sectors listed in Lei 14.973/2024 plus the Lei 13.670/2018 codes (`results/descriptives/cnaes_tratados.csv`).
   The **controls** are 248 non-listed classes in the same CNAE sections. Sections A (agriculture) and O (public administration) are excluded.
-- **Dose.** The payroll contribution is phased back in at 5 p.p. in 2025 and 10 p.p. in 2026, relative to the 2023–24 baseline. Year coefficients β5 (2025) and β10 (2026) are reported along with Δ = β10 − β5 and Δ/5.
+- **Dose.** The payroll contribution is phased back in at 5 p.p. in 2025 and 10 p.p. in 2026, relative to the 2023–24 baseline. Year coefficients β5 (2025) and β10 (2026) are reported along with Δ = β10 − β5 and Δ/5. β5 and β10 are ATTs relative to 2023–24 under parallel trends. Δ/5 is an average causal response only under strong parallel trends, as in the paper.
 - **Outcomes.** Net employment (`saldo`), hires (`admitidos`), separations (`desligados`) and log mean hiring wage (`log_salario`).
 
 ## Specification
@@ -18,7 +18,7 @@ Y ~ beta5 + beta10 | cnae4^municipio^mes_cal + municipio^time_id + municipio^ano
 ```
 Standard errors are CRV1, clustered by CNAE-4 class.
 - **Sample sizes.** Flows: N = 9,219,210 of 9,221,016 cells. Wages: N = 2,222,824 of 2,799,760 cells.
-  pyfixest removes singletons iteratively, so N (and the estimates, slightly) can change across pyfixest versions. Use the pinned version to reproduce exactly.
+  pyfixest removes singletons iteratively, so N (and the standard errors, slightly) can change across pyfixest versions. Use the pinned version to reproduce exactly.
 - **Leaner comparison spec.** `cnae4^mes_cal + municipio + time_id` (wage N = 2,799,714).
 - **Wage sample filters.** Hiring wage between 0.3 and 150 times the minimum wage. Cells with ≤ 2 hires and a mean wage above R$ 50,000 are dropped. Aug–Sep 2023 are dropped for wages.
 - **Robustness.** Same specification (1) without section F (construction) and (2) restricted to the CNAE-2 divisions that contain a listed class. Event studies come in two forms: assigned dose W (base 2024, or base 2023 with 2024 free as an anticipation check) and binary treated × period (base 2024), with T_max and Wald tests on the 2023 leads, plus a 2024 placebo.
