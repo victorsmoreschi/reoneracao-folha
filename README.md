@@ -72,3 +72,6 @@ Full re-estimation takes hours and around 30 GB of RAM. Install dependencies wit
 ## Verification
 `results/resultados_paper_conferencia.xlsx` has one sheet per table/figure. Its `Conferencia` sheet lists 228 numbers reported in the final PDF next to the corresponding CSV values, and all 228 match (OK).
 The *Conferência* section of the notebook re-runs this check, and recomputes Table 2, in minutes without re-estimation (it needs the panels).
+
+## Paper
+LaTeX source, figures and the compiled PDF of the paper and slides are in `paper/`.
