@@ -30,7 +30,7 @@ notebook/    notebook_codigo_final_reoneracao.ipynb (code + Portuguese explanati
 results/     main/ (principal spec), robustness/ (sem F, CNAE-2), descriptives/, resultados_paper_conferencia.xlsx
 figures/     final English figures (PNG)
 data/        how to obtain the Novo CAGED data (data itself is not versioned)
-paper/       (to be added by a collaborator) manuscript source and PDF
+paper/  LaTeX source, figures and compiled PDF of the paper and slides
 ```
 
 ## Reproduction (run in order)
